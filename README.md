@@ -17,7 +17,7 @@ Bem-vindo ao repositório **Python II: Módulos e PIP**! Este repositório foi c
 - Importação de pacotes.
 - O arquivo `__init__.py`.
 
-🌟 Objetivos de Aprendizado
+## 🌟 Objetivos de Aprendizado
 - Entender como dividir e organizar o código com módulos.
 - Aprender a criar pacotes Python reutilizáveis.
 - Instalar e gerenciar bibliotecas externas com PIP.
