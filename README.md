@@ -12,12 +12,12 @@ Bem-vindo ao repositório **Python II: Módulos e PIP**! Este repositório foi c
 - Módulos internos do Python (ex.: `math`, `random`, `datetime`).
 - Criando seu próprio módulo.
 
-- ### 2. Pacotes no Python
+### 2. Pacotes no Python
 - Estrutura de pacotes.
 - Importação de pacotes.
 - O arquivo `__init__.py`.
   
-- ### 3. Trabalhando com PIP
+### 3. Trabalhando com PIP
 - O que é o PIP?
 - Instalando pacotes com o PIP (`pip install`).
 - Atualizando e removendo pacotes (`pip install --upgrade`, `pip uninstall`).
