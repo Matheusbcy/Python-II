@@ -16,3 +16,4 @@ print(statistics.mode([2, 4, 5, 6, 2, 2, 10 ,9, 2, 2, 10 ,9]))
 significa que os dados do conunto estão menos dispersos
 """
 print(statistics.stdev([1, 1.5, 2, 2.5, 3, 3.5, 4, 4.5]))
+#F066
